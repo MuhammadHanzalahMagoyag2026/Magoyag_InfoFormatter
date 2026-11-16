@@ -1,0 +1,1 @@
+# Magoyag_InfoFormatter
